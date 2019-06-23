@@ -1,4 +1,4 @@
-name: shelf
+name: twirp
 version: 0.1.0
 description: >-
   Twirp helper library used by generated code. It also exports some common Twirp Types.
